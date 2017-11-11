@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'djagpwls10$dagpwls10',
         'USER': 'djagpwls10',
         'PASSWORD': 'fprtmf211',
-        'HOST': 'djagpwls10.mysql.pythonanywhere-services.com',
+        'HOST': 'mysql.server',
     }
 }
 
